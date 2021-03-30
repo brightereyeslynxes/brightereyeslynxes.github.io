@@ -1,0 +1,34 @@
+---
+---
+
+// Font.
+$font: (
+  primary: ("Roboto", sans-serif),
+  secondary: ("PT Serif", serif)
+);
+
+// Palette.
+$palette: (
+  primary:       #536171,
+  secondary:     darken(#536171, 35%),//darken(#536171, 15%),
+  meta:          darken(#536171, 35%),
+  border:        lighten(#536171, 100%),//lighten(#536171, 52%),
+  bg:            lighten(#536171, 55%),//lighten(#536171, 58%),
+  accent:        #536171, //3cb464
+  accent-blue:   #536171,//#108afb,
+  accent-black:  #536171,//#333b45,
+  accent-red:    #536171//#f8646c
+);
+
+@import "imports/functions";
+@import "imports/reset";
+@import "imports/general";
+@import "imports/icons";
+@import "imports/structure";
+@import "imports/header";
+@import "imports/posts-pages";
+@import "imports/intro";
+@import "imports/subscribe";
+@import "imports/footer";
+@import "imports/palettes";
+
