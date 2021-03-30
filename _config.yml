@@ -29,9 +29,6 @@ footer:
       icon_class: github
       new_window: true
   has_subscribe: False
-  subscribe_title: Subscribe for new updates
-  subscribe_content: >-
-  subscribe_action: /subscribe-success
 sass:
   indentWidth: 4
   style: nested
