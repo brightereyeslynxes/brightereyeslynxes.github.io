@@ -45,6 +45,3 @@ exclude:
   - vendor/ruby/
   - LICENSE.md
   - README.md
-  - netlify.toml
-  - stackbit-build.sh
-  - stackbit-pull.js
