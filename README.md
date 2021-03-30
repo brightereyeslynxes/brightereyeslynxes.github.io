@@ -1,2 +1,2 @@
 
-[brighter eyes lynxes](https://brightereyeslynxes.github.io/) 
+[Brighter Eyes Lynxes](https://brightereyeslynxes.github.io/) 
